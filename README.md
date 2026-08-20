@@ -4,8 +4,6 @@ A static site that carries the full text of Gruwell and Ewing's open textbook,
 with search, the glossary, term distributions, every chapter attribution, and a
 dialogue bound to passages of the book.
 
-**Unlike its siblings, this one ships the text.** The other apparatuses in this
-family hold derived data only, because the books they index are in copyright.
 This book is an open educational resource under CC BY-SA 4.0, so redistribution
 and adaptation are exactly what the licence permits — and there is nothing for
 the reader to supply.
